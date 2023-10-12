@@ -53,7 +53,7 @@ const Imgsection = () => {
                       <div class="col-lg-3 col-md-4 col-sm-6 col-12 mb-4 px_16">
                           <img src={img10} alt="img-10" class="w-100"/>
                       </div>
-                      <div class="col-lg-3 col-md-4 col-sm-6 col-12 mb-4 px_16">
+                      <div class="col-lg-3 col-md-4 col-sm-6 col-12 mb-4 px_16">                       
                           <img src={img11} alt="img-11" class="w-100"/>
                       </div>
 
